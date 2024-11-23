@@ -90,9 +90,9 @@ maxRevives: -1
 # === Disabling Features ===
 
 # If the use of totems of undying should be prevented
-preventTotems: false
+preventTotems: true
 # If crystalpvp should be disabled
-preventCrystalPVP: false
+preventCrystalPVP: true
 # If the use of custom items in item frames should be prevented
 # It is recommended to leave this enabled, as people can dupe items otherwise
 preventCustomItemsInItemFrames: true
